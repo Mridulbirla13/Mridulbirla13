@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 - 💬 Ask me about **JavaScript, Python, and web development**.
 - 📫 How to reach me: [mridulbirla13@example.com](mailto:mridulbirla13@example.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy **hiking and photography**.
+- ⚡ Fun fact: I am a Musician
 
 ## Skills
 
